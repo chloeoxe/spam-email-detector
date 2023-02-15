@@ -16,6 +16,6 @@ Topics covered in this project are:
 - Binary Classification
 - Natural Language Processing
 - Data Visualisation
-- Data Manipulation & Analysis
-- Feature Engineering
+- Exploratory Data Analysis & Manipulation
+- Feature Engineering & Extraction
 - Model Evaluation
